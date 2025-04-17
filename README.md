@@ -5,7 +5,9 @@ Sou desde que me conheço por gente muito interessada em tecnologia, seja coloca
 -Fluente em HTML e CSS<br>
 -Python <br>
 -Javascrip<br>
--Peitudinha
+-Peitudinha<br>
+<h3>Formação</h3>
+  -3º Período - Informática para negócios - Fatec São Bernardo do Campo
 <h3>Contatos</h3>
 Numero: (11) 98462-6945<br>
 Email: emilyrodriguesfonseca@gmail.com
