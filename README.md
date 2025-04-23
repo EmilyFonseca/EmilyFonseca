@@ -11,3 +11,13 @@ Sou desde que me conheço por gente muito interessada em tecnologia, seja coloca
 <h3>Contatos</h3>
 Numero: (11) 98462-6945<br>
 Email: emilyrodriguesfonseca@gmail.com
+<a href="https://www.deltaze.com.br/">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbRKJQsp1PZX1LCf4tgbOwbobvVsJTh9pv6g&s" width="80px" align="left" alt="VinhaNet logo"/>
+</a>
+
+**ERP Intern**  
+[**VinhaNet Software**](https://www.deltaze.com.br/) • Part-time  
+**Principais Atividades:** Suporte N1, Análise, Atendimento de Tickets, Encaminhamento e acompanhamento de Problemas Técnicos
+
+<br clear="left"/>
+
