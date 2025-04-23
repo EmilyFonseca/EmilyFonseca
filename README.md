@@ -31,12 +31,13 @@ Principais Atividades: `Suporte N1`, `Análise`, `Atendimento de Tickets`, `Enca
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
-<h1>Contatos</h1>
-<a href="mailto:emilyrodriguesfonseca@gmail.com">
-  <img src="https://img.icons8.com/ios-filled/25/000000/email-open.png" alt="Email icon"/>
-</a> emilyrodriguesfonseca@gmail.com  
-<br/>
-
-<img src="https://img.icons8.com/ios-filled/25/000000/phone.png" alt="Phone icon"/> (11) 98462-6945
+<h1 align="center">Contatos</h1>
+<p align="center">
+  <a href="mailto:emilyrodriguesfonseca@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/25/000000/email-open.png" alt="Email icon"/>
+  </a> emilyrodriguesfonseca@gmail.com  
+  <br/>
+  <img src="https://img.icons8.com/ios-filled/25/000000/phone.png" alt="Phone icon"/> (11) 98462-6945
+</p>
 
 
