@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="URL-DA-SUA-IMAGEM" alt="Banner" width="100%"/>
+</p>
+
+
+<br>
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbRKJQsp1PZX1LCf4tgbOwbobvVsJTh9pv6g&s"/>](https://www.deltaze.com.br)
  
 **ERP Intern** \
